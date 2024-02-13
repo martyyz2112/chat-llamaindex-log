@@ -41,7 +41,7 @@ const en = {
     Send: "Send Memory",
   },
   Home: {
-    Github: "Github",
+    Github: "GenAI Labs",
     Logout: "Logout",
     Settings: "Settings",
   },
@@ -137,8 +137,8 @@ const en = {
   },
 
   Welcome: {
-    Title: "Chat LlamaIndex",
-    SubTitle: "Create chat bots that know your data",
+    Title: "GenAI Labs",
+    SubTitle: "Build a Custom Enterprise GPT",
     Quote:
       "“This tool has saved me countless hours of work and helped me apply AI features to my work faster than ever before.”",
     LoginLinkedinTitle: "Login with LinkedIn",
